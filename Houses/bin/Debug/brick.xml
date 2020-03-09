@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-05-13T10:20:29">
+<Building_x0020_materials>
+<Code>B01</Code>
+<Name>IKO Битумная черепица ArmourGlass Amazon Green</Name>
+<CodeSet>ЭЛИТ</CodeSet>
+<Category>Битумная черепица</Category>
+<Brand>IKO</Brand>
+<Country>Словакия</Country>
+<Warranty>20 лет</Warranty>
+<Color>зеленый</Color>
+<Unit>м.кв</Unit>
+<Price>260</Price>
+<Photo>Нет</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>B02</Code>
+<Name>IKO Битумная черепица ArmourGlass Black</Name>
+<CodeSet>ВРГД</CodeSet>
+<Category>Битумная черепица</Category>
+<Brand>IKO</Brand>
+<Country>Словакия</Country>
+<Warranty>20 лет</Warranty>
+<Color>черный</Color>
+<Unit>м.кв</Unit>
+<Price>260</Price>
+<Photo>Нет</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>B03</Code>
+<Name>IKO Битумная черепица Victorian Tile Red</Name>
+<CodeSet>АЛЬП</CodeSet>
+<Category>Битумная черепица</Category>
+<Brand>IKO</Brand>
+<Country>Словакия</Country>
+<Warranty>20 лет</Warranty>
+<Color>красный</Color>
+<Unit>м.кв</Unit>
+<Price>260</Price>
+<Photo>Нет</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>B04</Code>
+<Name>Клинкерная плитка Feldhaus Klinker R100</Name>
+<CodeSet>АСРТ</CodeSet>
+<Category>клинкерная и декоративная плитка</Category>
+<Brand> Feldhaus Klinker</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>желтый</Color>
+<Size_x002C__x0020_mm>NF9 240 x 9 x 71 / LDF 290 x 14 x 52 / DF 240 x 52 x 9</Size_x002C__x0020_mm>
+<Unit>м.кв</Unit>
+<Price>775</Price>
+<Photo>4.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>B05</Code>
+<Name>Клинкерная плитка Feldhaus Klinker R214</Name>
+<CodeSet>АСРТ</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand> Feldhaus Klinker</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>оранжевый</Color>
+<Size_x002C__x0020_mm>NF9 240 x 9 x 71 / DF 240 x 52 x 9</Size_x002C__x0020_mm>
+<Unit>м.кв</Unit>
+<Price>775</Price>
+<Photo>5.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>B06</Code>
+<Name>Клинкерная плитка Feldhaus Klinker R200</Name>
+<CodeSet>НЕЖН</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand> Feldhaus Klinker</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>оранжевый</Color>
+<Size_x002C__x0020_mm>NF9 240 x 9 x 71 / DF 240 x 52 x 9</Size_x002C__x0020_mm>
+<Unit>м.кв</Unit>
+<Price>775</Price>
+<Photo>6.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>B07</Code>
+<Name>Клинкерная плитка Feldhaus Klinker R216</Name>
+<CodeSet>ВИШН</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand> Feldhaus Klinker</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>желтый</Color>
+<Size_x002C__x0020_mm>NF9 240 x 9 x 71 / DF 240 x 52 x 9</Size_x002C__x0020_mm>
+<Unit>м.кв</Unit>
+<Price>775</Price>
+<Photo>7.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>B08</Code>
+<Name>Клинкерная плитка Feldhaus Klinker R286</Name>
+<CodeSet>ОРШК</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand> Feldhaus Klinker</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>коричневый</Color>
+<Size_x002C__x0020_mm>NF9 240 x 9 x 71 / DF 240 x 52 x 9</Size_x002C__x0020_mm>
+<Unit>м.кв</Unit>
+<Price>760</Price>
+<Photo>8.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>D01</Code>
+<Name>Композитная черепица Metrotile coffee</Name>
+<CodeSet>ВЕРШ</CodeSet>
+<Category>Композитная черепица </Category>
+<Brand>Metrotile </Brand>
+<Country>Бельгия</Country>
+<Warranty>20 лет</Warranty>
+<Color>кофе</Color>
+<Size_x002C__x0020_mm> 1330 x 410</Size_x002C__x0020_mm>
+<Unit>шт</Unit>
+<Price>200</Price>
+<Photo>Нет</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>D02</Code>
+<Name>Композитная черепица Metrotile scarlet</Name>
+<CodeSet>СЕРД</CodeSet>
+<Category>Композитная черепица </Category>
+<Brand>Metrotile </Brand>
+<Country>Бельгия</Country>
+<Warranty>20 лет</Warranty>
+<Color>красный</Color>
+<Size_x002C__x0020_mm> 1330 x 410</Size_x002C__x0020_mm>
+<Unit>шт</Unit>
+<Price>200</Price>
+<Photo>Нет</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>D03</Code>
+<Name>Композитная черепица Metrotile victorian red</Name>
+<CodeSet>ВЕРШ</CodeSet>
+<Category>Композитная черепица </Category>
+<Brand>Metrotile </Brand>
+<Country>Бельгия</Country>
+<Warranty>20 лет</Warranty>
+<Color>красный</Color>
+<Size_x002C__x0020_mm> 1330 x 410</Size_x002C__x0020_mm>
+<Unit>шт</Unit>
+<Price>200</Price>
+<Photo>Нет</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>D04</Code>
+<Name>Клинкерная плитка SDS Keramik Dresden</Name>
+<CodeSet>ПРИР</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand>SDS Keramik</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>серый</Color>
+<Size_x002C__x0020_mm>360 x 52 x 10</Size_x002C__x0020_mm>
+<Unit>м.кв.</Unit>
+<Price>1100</Price>
+<Photo>12.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>D06</Code>
+<Name>Клинкерная плитка SDS Keramik Malta</Name>
+<CodeSet>ОРШК</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand>SDS Keramik</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>красно-коричневый</Color>
+<Size_x002C__x0020_mm>360 x 52 x 10</Size_x002C__x0020_mm>
+<Unit>м.кв.</Unit>
+<Price>1100</Price>
+<Photo>13.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>D07</Code>
+<Name>Клинкерная плитка SDS Keramik Hamburg</Name>
+<CodeSet>ВИШН</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand>SDS Keramik</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>антрацит</Color>
+<Size_x002C__x0020_mm>360 x 52 x 10</Size_x002C__x0020_mm>
+<Unit>м.кв.</Unit>
+<Price>1100</Price>
+<Photo>Нет</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>D08</Code>
+<Name>Цементно-песчанная черепица ОНДО цвет коричневый</Name>
+<CodeSet>ПЛАН</CodeSet>
+<Category>Цементно-песчанная черепица</Category>
+<Brand> ОНДО</Brand>
+<Country>Украина</Country>
+<Warranty>20 лет</Warranty>
+<Color>коричневый</Color>
+<Unit>м.кв.</Unit>
+<Price>225</Price>
+<Photo>15.png</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>D09</Code>
+<Name>Цементно-песчанная черепица ОНДО цвет терракотовый</Name>
+<CodeSet>СЕВР</CodeSet>
+<Category>Цементно-песчанная черепица</Category>
+<Brand> ОНДО</Brand>
+<Country>Украина</Country>
+<Warranty>20 лет</Warranty>
+<Color>терракотовый</Color>
+<Unit>м.кв.</Unit>
+<Price>225</Price>
+<Photo>16.png</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>D11</Code>
+<Name>Цементно-песчанная черепица ОНДО цвет черный</Name>
+<CodeSet>МАРЦ</CodeSet>
+<Category>Цементно-песчанная черепица</Category>
+<Brand> ОНДО</Brand>
+<Country>Украина</Country>
+<Warranty>20 лет</Warranty>
+<Color>графитовый</Color>
+<Unit>м.кв.</Unit>
+<Price>225</Price>
+<Photo>17.png</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>F01</Code>
+<Name>Кирпич ручной формовки CRH BU Oud Hollands Wit</Name>
+<CodeSet>КОФЕ</CodeSet>
+<Category>Кирпич ручной формовки</Category>
+<Brand> CRH </Brand>
+<Country>Голландия</Country>
+<Warranty>20 лет</Warranty>
+<Color>серый</Color>
+<Size_x002C__x0020_mm>207 x 98 x 65 / 207 x 98 x 50</Size_x002C__x0020_mm>
+<Unit>шт</Unit>
+<Price>36</Price>
+<Photo>18.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>F02</Code>
+<Name>Клинкерный кирпич CRH Patoka Gotika PAT901751</Name>
+<CodeSet>КОФЕ</CodeSet>
+<Category>Клинкерний кирпич</Category>
+<Brand> CRH </Brand>
+<Country>Голландия</Country>
+<Warranty>20 лет</Warranty>
+<Size_x002C__x0020_mm>250 x 120 x 65</Size_x002C__x0020_mm>
+<Unit>шт</Unit>
+<Price>28</Price>
+<Photo>19.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M01</Code>
+<Name>Кирпич ручной формовки STEENFABRIEK KLINKERS Thin cement coated brick 40 мм</Name>
+<CodeSet>АЛЬП</CodeSet>
+<Category>Кирпич ручной формовки</Category>
+<Brand>STEENFABRIEK KLINKERS </Brand>
+<Country>Нидерланды </Country>
+<Warranty>20 лет</Warranty>
+<Color>серый</Color>
+<Size_x002C__x0020_mm>240 x 100 x 40</Size_x002C__x0020_mm>
+<Unit>шт</Unit>
+<Price>27</Price>
+<Photo>20.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M02</Code>
+<Name>Кирпич ручной формовки STEENFABRIEK KLINKERS Thin cement coated brick 50 мм</Name>
+<CodeSet>ВЕРШ</CodeSet>
+<Category>Кирпич ручной формовки</Category>
+<Brand>STEENFABRIEK KLINKERS </Brand>
+<Country>Нидерланды </Country>
+<Warranty>20 лет</Warranty>
+<Color>серый</Color>
+<Size_x002C__x0020_mm>240 x 100 x 50</Size_x002C__x0020_mm>
+<Unit>шт</Unit>
+<Price>27</Price>
+<Photo>21.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M03</Code>
+<Name>Кирпич ручной формовки STEENFABRIEK KLINKERS Geel, licht genuanceerd KM 010</Name>
+<CodeSet>ВЕРШ</CodeSet>
+<Category>Кирпич ручной формовки</Category>
+<Brand>STEENFABRIEK KLINKERS </Brand>
+<Country>Нидерланды </Country>
+<Warranty>20 лет</Warranty>
+<Color>серый</Color>
+<Size_x002C__x0020_mm>WF, 215 x 100 x 50 </Size_x002C__x0020_mm>
+<Unit>м.кв.</Unit>
+<Price>1000</Price>
+<Photo>22.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M04</Code>
+<Name>Кирпич ручной формовки STEENFABRIEK KLINKERS KM048/637-050/7k</Name>
+<CodeSet>ВЕЧР</CodeSet>
+<Category>Кирпич ручной формовки</Category>
+<Brand>STEENFABRIEK KLINKERS </Brand>
+<Country>Нидерланды </Country>
+<Warranty>20 лет</Warranty>
+<Color>серо-белый</Color>
+<Size_x002C__x0020_mm>210 x 100 x 65</Size_x002C__x0020_mm>
+<Unit>шт</Unit>
+<Price>26</Price>
+<Photo>23.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M05</Code>
+<Name>Клинкерная плитка SDS Keramik Bremen Sand Beige</Name>
+<CodeSet>ОСНН</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand>SDS Keramik</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>зеленый</Color>
+<Size_x002C__x0020_mm>240 x 71 x 10</Size_x002C__x0020_mm>
+<Unit>м.кв.</Unit>
+<Price>600</Price>
+<Photo>Нет</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M06</Code>
+<Name>Клинкерная плитка SDS Keramik Bremen Dunkelbraun</Name>
+<CodeSet>РОМН</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand>SDS Keramik</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>черный</Color>
+<Size_x002C__x0020_mm>240 x 71 x 10</Size_x002C__x0020_mm>
+<Unit>м.кв.</Unit>
+<Price>800</Price>
+<Photo>Нет</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M07</Code>
+<Name>Клинкерная плитка SDS Keramik Bremen Rotbraun</Name>
+<CodeSet>РОМН</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand>SDS Keramik</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>красный</Color>
+<Size_x002C__x0020_mm>240 x 71 x 10</Size_x002C__x0020_mm>
+<Unit>м.кв.</Unit>
+<Price>600</Price>
+<Photo>Нет</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M08</Code>
+<Name>Клинкерная плитка SDS Keramik Westerwald Aubergine</Name>
+<CodeSet>ЭКЗТ</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand>SDS Keramik</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>желтый</Color>
+<Size_x002C__x0020_mm>240 x 71 x 10</Size_x002C__x0020_mm>
+<Unit>м.кв.</Unit>
+<Price>600</Price>
+<Photo>27.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M09</Code>
+<Name>Клинкерная плитка SDS Keramik Amsterdam</Name>
+<CodeSet>ВРГД</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand>SDS Keramik</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>оранжевый</Color>
+<Size_x002C__x0020_mm>360 x 52 x 10</Size_x002C__x0020_mm>
+<Unit>м.кв.</Unit>
+<Price>1226</Price>
+<Photo>28.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M10</Code>
+<Name>Клинкерная плитка SDS Keramik Westerwald Reno</Name>
+<CodeSet>СЕВР</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand>SDS Keramik</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>оранжевый</Color>
+<Size_x002C__x0020_mm>240 x 71 x 10</Size_x002C__x0020_mm>
+<Unit>м.кв.</Unit>
+<Price>600</Price>
+<Photo>29.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M11</Code>
+<Name>Композитная черепица Gerard  Classic</Name>
+<CodeSet>АСРТ</CodeSet>
+<Category>Композитная черепица </Category>
+<Brand>Gerard </Brand>
+<Country>Венгрия</Country>
+<Warranty>20 лет</Warranty>
+<Color>желтый</Color>
+<Unit>шт</Unit>
+<Price>200</Price>
+<Photo>30.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M12</Code>
+<Name>Композитная черепица Gerard Heritage</Name>
+<CodeSet>ВРГД</CodeSet>
+<Category>Композитная черепица </Category>
+<Brand>Gerard </Brand>
+<Country>Венгрия</Country>
+<Warranty>20 лет</Warranty>
+<Color>коричневый</Color>
+<Unit>шт</Unit>
+<Price>200</Price>
+<Photo>31.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M13</Code>
+<Name>Композитная черепица GERARD® Slate</Name>
+<CodeSet>АСРТ</CodeSet>
+<Category>Композитная черепица </Category>
+<Brand>Gerard </Brand>
+<Country>Венгрия</Country>
+<Warranty>20 лет</Warranty>
+<Color>кофе</Color>
+<Unit>шт</Unit>
+<Price>220</Price>
+<Photo>32.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M14</Code>
+<Name>Клинкерная плитка SDS Keramik Oslo</Name>
+<CodeSet>ОРШК</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand>SDS Keramik</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>красный</Color>
+<Size_x002C__x0020_mm>360 x 52 x 10</Size_x002C__x0020_mm>
+<Unit>м.кв</Unit>
+<Price>1100</Price>
+<Photo>33.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M15</Code>
+<Name>Клинкерная плитка SDS Keramik Milan</Name>
+<CodeSet>ЭКЗТ</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand>SDS Keramik</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>красный</Color>
+<Size_x002C__x0020_mm>360 x 52 x 10</Size_x002C__x0020_mm>
+<Unit>м.кв</Unit>
+<Price>1100</Price>
+<Photo>34.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M16</Code>
+<Name>Клинкерная плитка SDS Keramik Berlin</Name>
+<CodeSet>ОРШК</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand>SDS Keramik</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>серый</Color>
+<Size_x002C__x0020_mm>360 x 52 x 10</Size_x002C__x0020_mm>
+<Unit>м.кв</Unit>
+<Price>1100</Price>
+<Photo>35.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M17</Code>
+<Name>Клинкерная плитка SDS Keramik Bern</Name>
+<CodeSet>ПРИР</CodeSet>
+<Category>Клинкерная плитка</Category>
+<Brand>SDS Keramik</Brand>
+<Country>Германия</Country>
+<Warranty>20 лет</Warranty>
+<Color>красно-коричневый</Color>
+<Size_x002C__x0020_mm>360 x 52 x 10</Size_x002C__x0020_mm>
+<Unit>м.кв</Unit>
+<Price>1100</Price>
+<Photo>36.jpg</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>M18</Code>
+<Name>Плитка ручной работы Челси</Name>
+<CodeSet>ПРИР</CodeSet>
+<Category>Клинкерная и декоративная плитка</Category>
+<Brand>Loft Brick</Brand>
+<Country>Украина</Country>
+<Warranty>20 лет</Warranty>
+<Color>красный</Color>
+<Size_x002C__x0020_mm> 210 x 15 x 65</Size_x002C__x0020_mm>
+<Unit>м.кв</Unit>
+<Price>435</Price>
+<Photo>Нет</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>W01</Code>
+<Name>Плитка ручной работы Манхеттен 30</Name>
+<CodeSet>МАРЦ</CodeSet>
+<Category>Клинкерная и декоративная плитка</Category>
+<Brand>Loft Brick</Brand>
+<Country>Украина</Country>
+<Warranty>20 лет</Warranty>
+<Color>коричневый с подпалами</Color>
+<Size_x002C__x0020_mm>210 x 15 x 65</Size_x002C__x0020_mm>
+<Unit>м.кв</Unit>
+<Price>435</Price>
+<Photo>Нет</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>W02</Code>
+<Name>Плитка ручной работы Бостон 10</Name>
+<CodeSet>ЭЛИТ</CodeSet>
+<Category>Клинкерная и декоративная плитка</Category>
+<Brand>Loft Brick</Brand>
+<Country>Украина</Country>
+<Warranty>20 лет</Warranty>
+<Color>темно-красный
+бежево-желтыми нотами</Color>
+<Size_x002C__x0020_mm>210*15*65</Size_x002C__x0020_mm>
+<Unit>м.кв</Unit>
+<Price>435</Price>
+<Photo>Нет</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>W03</Code>
+<Name>Подоконник клинкерный King Klinker (01)Kрасный</Name>
+<CodeSet>РОМН</CodeSet>
+<Category>Клинкерные подоконники</Category>
+<Brand> King Klinker </Brand>
+<Country>Польша</Country>
+<Warranty>20 лет</Warranty>
+<Color>красный</Color>
+<Size_x002C__x0020_mm>150/200/220/245/280/310/350 x 120 x 15</Size_x002C__x0020_mm>
+<Unit>шт</Unit>
+<Price>25</Price>
+<Photo>40.png</Photo>
+</Building_x0020_materials>
+<Building_x0020_materials>
+<Code>W06</Code>
+<Name>Подоконник клинкерный King Klinker (03)Kоричневый</Name>
+<CodeSet>ВЕРШ</CodeSet>
+<Category>Клинкерные подоконники</Category>
+<Brand> King Klinker </Brand>
+<Country>Польша</Country>
+<Warranty>20 лет</Warranty>
+<Color>коричневый</Color>
+<Size_x002C__x0020_mm>150/200/220/245/280/310/350 x 120 x 15</Size_x002C__x0020_mm>
+<Unit>шт</Unit>
+<Price>31</Price>
+<Photo>41.png</Photo>
+</Building_x0020_materials>
+<Sets>
+<CodeSet>АЛЬП</CodeSet>
+<SetName>Дом в перловнике</SetName>
+<Price>1000.5</Price>
+<Square_x002C__x0020_м2>120</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>АСРТ</CodeSet>
+<SetName>Дом под гинко</SetName>
+<Price>1400</Price>
+<Square_x002C__x0020_м2>94</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>ВЕРШ</CodeSet>
+<SetName>Дом в клематисах 9 (БT)</SetName>
+<Price>900</Price>
+<Square_x002C__x0020_м2>121</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>ВЕЧР</CodeSet>
+<SetName>Дом в лотосах (М)</SetName>
+<Price>900.5</Price>
+<Square_x002C__x0020_м2>110</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>ВИШН</CodeSet>
+<SetName>Дом в журавках 7</SetName>
+<Price>800</Price>
+<Square_x002C__x0020_м2>136</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>ВРГД</CodeSet>
+<SetName>Дом в изопируме</SetName>
+<Price>700</Price>
+<Square_x002C__x0020_м2>141</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>КОФЕ</CodeSet>
+<SetName>Дом в рукколе (H)</SetName>
+<Price>900</Price>
+<Square_x002C__x0020_м2>126</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>МАРЦ</CodeSet>
+<SetName>Дом в акебиях</SetName>
+<Price>1600</Price>
+<Square_x002C__x0020_м2>127</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>НЕЖН</CodeSet>
+<SetName>Дом в рододендронах</SetName>
+<Price>1150</Price>
+<Square_x002C__x0020_м2>102</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>ОРШК</CodeSet>
+<SetName>Дом под цицербитой (Г2)</SetName>
+<Price>800</Price>
+<Square_x002C__x0020_м2>149</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>ОСНН</CodeSet>
+<SetName>Дом в папаверах</SetName>
+<Price>2150</Price>
+<Square_x002C__x0020_м2>145</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>ПЛАН</CodeSet>
+<SetName>Дом под горной сосной (П)</SetName>
+<Price>1700</Price>
+<Square_x002C__x0020_м2>201</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>ПРИР</CodeSet>
+<SetName>Дом в рукколе (Г2H)</SetName>
+<Price>1000.5</Price>
+<Square_x002C__x0020_м2>161</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>РОМН</CodeSet>
+<SetName>Дом под папайей</SetName>
+<Price>1700</Price>
+<Square_x002C__x0020_м2>127</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>СЕВР</CodeSet>
+<SetName>Дом в лобо (Г2) ver.2</SetName>
+<Price>1006.5</Price>
+<Square_x002C__x0020_м2>182</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>СЕРД</CodeSet>
+<SetName>Дом в айдаредах 3 ver.2</SetName>
+<Price>900</Price>
+<Square_x002C__x0020_м2>143</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>ЭКЗТ</CodeSet>
+<SetName>Дом в аурорах 4</SetName>
+<Price>1700.5</Price>
+<Square_x002C__x0020_м2>173</Square_x002C__x0020_м2>
+</Sets>
+<Sets>
+<CodeSet>ЭЛИТ</CodeSet>
+<SetName>Дом в вавжинках</SetName>
+<Price>1400</Price>
+<Square_x002C__x0020_м2>182</Square_x002C__x0020_м2>
+</Sets>
+</dataroot>

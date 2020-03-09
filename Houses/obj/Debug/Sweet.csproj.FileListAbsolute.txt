@@ -1,0 +1,46 @@
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 03_04 Классная работа\8 занятие 01.03.2019\Практика\Sweet\Sweet\bin\Debug\Sweet.exe.config
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 03_04 Классная работа\8 занятие 01.03.2019\Практика\Sweet\Sweet\bin\Debug\Sweet.exe
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 03_04 Классная работа\8 занятие 01.03.2019\Практика\Sweet\Sweet\bin\Debug\Sweet.pdb
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 03_04 Классная работа\8 занятие 01.03.2019\Практика\Sweet\Sweet\obj\Debug\Sweet.frmMain.resources
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 03_04 Классная работа\8 занятие 01.03.2019\Практика\Sweet\Sweet\obj\Debug\Sweet.Properties.Resources.resources
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 03_04 Классная работа\8 занятие 01.03.2019\Практика\Sweet\Sweet\obj\Debug\Sweet.csproj.GenerateResource.cache
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 03_04 Классная работа\8 занятие 01.03.2019\Практика\Sweet\Sweet\obj\Debug\Sweet.exe
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 03_04 Классная работа\8 занятие 01.03.2019\Практика\Sweet\Sweet\obj\Debug\Sweet.pdb
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 03_04 Классная работа\8 занятие 01.03.2019\Практика\Sweet\Sweet\obj\Debug\Sweet.frmDetails.resources
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 03_04 Классная работа\8 занятие 01.03.2019\Практика\Sweet\Sweet\obj\Debug\Sweet.csprojAssemblyReference.cache
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 03_04 Классная работа\8 занятие 01.03.2019\Практика\Sweet\Sweet\obj\Debug\Sweet.csproj.CoreCompileInputs.cache
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\bin\Debug\Sweet.exe.config
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.exe
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.pdb
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\bin\Debug\Sweet.exe
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\bin\Debug\Sweet.pdb
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.frmDetails.resources
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.frmMain.resources
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.Properties.Resources.resources
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.csproj.GenerateResource.Cache
+C:\Users\tsalko\Desktop\Комп. проект\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\bin\Debug\Sweet.exe.config
+C:\Users\Vlad\Desktop\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\bin\Debug\Sweet.exe
+C:\Users\Vlad\Desktop\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\bin\Debug\Sweet.pdb
+C:\Users\Vlad\Desktop\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.frmDetails.resources
+C:\Users\Vlad\Desktop\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.frmMain.resources
+C:\Users\Vlad\Desktop\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.Properties.Resources.resources
+C:\Users\Vlad\Desktop\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.csproj.GenerateResource.Cache
+C:\Users\Vlad\Desktop\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.exe
+C:\Users\Vlad\Desktop\Цалко 04_01 Классная работа\Практика\Sweet\Sweet\obj\Debug\Sweet.pdb
+F:\House\Sweet\bin\Debug\Sweet.exe.config
+F:\House\Sweet\bin\Debug\Sweet.exe
+F:\House\Sweet\bin\Debug\Sweet.pdb
+F:\House\Sweet\obj\Debug\Sweet.csprojResolveAssemblyReference.cache
+F:\House\Sweet\obj\Debug\Sweet.frmDetails.resources
+F:\House\Sweet\obj\Debug\Sweet.frmMain.resources
+F:\House\Sweet\obj\Debug\Sweet.Properties.Resources.resources
+F:\House\Sweet\obj\Debug\Sweet.csproj.GenerateResource.Cache
+F:\House\Sweet\obj\Debug\Sweet.csproj.CoreCompileInputs.cache
+F:\House\Sweet\obj\Debug\Sweet.exe
+F:\House\Sweet\obj\Debug\Sweet.pdb
+E:\House\Sweet\bin\Debug\Sweet.exe.config
+E:\House\Sweet\obj\Debug\Sweet.exe
+E:\House\Sweet\obj\Debug\Sweet.pdb
